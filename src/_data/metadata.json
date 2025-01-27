@@ -15,6 +15,10 @@
         {
             "label": "Eleventy + Netlify ↗",
             "url": "https://docs.netlify.com/frameworks/eleventy/"
+        },
+        {
+            "label": "Contact",
+            "url": "/contact"
         }
     ],
     "hero": {
